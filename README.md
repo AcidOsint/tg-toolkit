@@ -1,4 +1,4 @@
-#  tg_toolkit Q1 (v6.7)
+#  tg_toolkit Q1 (v6.8.1)
 
 ![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Zero Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen.svg)
