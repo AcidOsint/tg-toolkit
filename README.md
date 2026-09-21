@@ -21,7 +21,22 @@
 
 ## 🚀 Quick Start
 
-1. **Download the tool:**
-   Clone the repository or download the `.zip` archive.
-   ```bash
-   git clone https://github.com/AcidOsint/tg-toolkit.git
+**1. Install Prerequisites:**
+Ensure you have **Python 3.9+** installed and added to your system PATH.
+
+**2. Download the tool:**
+```bash
+git clone https://github.com/AcidOsint/tg-toolkit.git
+```
+
+**3. Prepare your data:**
+Place your Telegram HTML or TXT export files (or folders) into the input/ directory.
+
+**4. Run the toolkit:** 
+
+    Windows: Simply double-click run_tg_toolkit.bat.
+
+    Linux / macOS: Open your terminal and run python tg_toolkit.py.
+
+
+All processed logs and extracted entities will be saved in a newly created timestamped folder inside the output/ directory.
